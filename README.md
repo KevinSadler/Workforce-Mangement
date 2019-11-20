@@ -12,7 +12,7 @@
 
 ## Setup
 1. Clone the repository
-2. Run the SQL file "Bangazon Workforce Data" which will create and populate your database
+2. Run the SQL file "BangazonWorkforceData.sql" which will create and populate your database
 3. You're ready to run the program
 
 ## Overview
